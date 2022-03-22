@@ -16,3 +16,4 @@ transformers==3.5.1
 srsly==1.0.2
 tweepy
 allennlp
+urllib3>=1.26.5 # not directly required, pinned by Snyk to avoid a vulnerability
